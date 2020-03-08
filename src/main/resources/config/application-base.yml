@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    include: mybatis,mysql
+
+server:
+  port: ${server.port}

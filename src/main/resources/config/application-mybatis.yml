@@ -1,0 +1,3 @@
+mybatis:
+  desc: 这里进行mybatis配置，亦可起其他名称，进行其他配置
+  desc2: ${mybatis.test}
